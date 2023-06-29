@@ -1,0 +1,11 @@
+linux:
+	ls 
+	ping google.com
+cod1c:
+	gcc soma.c -o soma.o
+cod2c: 
+	gcc sub.c -o sub.o
+linux2: 
+	clear
+	pwd
+	
